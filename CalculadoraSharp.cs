@@ -70,13 +70,13 @@ namespace Calculadora
                                 break;
                             }
 
-                    case 0:
-                        {
-                            Console.WriteLine("Saindo!");
-                            break;
-                        }
+	                case 0:
+        	            {
+                	    	Console.WriteLine("Saindo!");
+                        	break;
+                       	    }
 
-                    default:
+                    	default:
                             {
                                 Console.WriteLine("Não reconheci sua escolha, tente novamente!");
                                 break;
